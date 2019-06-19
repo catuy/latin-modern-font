@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Latin Modern Math';
+    src: url('LatinModernMath-Regular.eot');
+    src: url('LatinModernMath-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LatinModernMath-Regular.woff2') format('woff2'),
+        url('LatinModernMath-Regular.woff') format('woff'),
+        url('LatinModernMath-Regular.ttf') format('truetype'),
+        url('LatinModernMath-Regular.svg#LatinModernMath-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

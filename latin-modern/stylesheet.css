@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'LMRoman9';
+    src: url('LMRoman9-Italic.eot');
+    src: url('LMRoman9-Italic.eot?#iefix') format('embedded-opentype'),
+        url('LMRoman9-Italic.woff2') format('woff2'),
+        url('LMRoman9-Italic.woff') format('woff'),
+        url('LMRoman9-Italic.ttf') format('truetype'),
+        url('LMRoman9-Italic.svg#LMRoman9-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LMRomanDemi10';
+    src: url('LMRomanDemi10-Regular.eot');
+    src: url('LMRomanDemi10-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LMRomanDemi10-Regular.woff2') format('woff2'),
+        url('LMRomanDemi10-Regular.woff') format('woff'),
+        url('LMRomanDemi10-Regular.ttf') format('truetype'),
+        url('LMRomanDemi10-Regular.svg#LMRomanDemi10-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LMRoman9';
+    src: url('LMRoman9-Bold.eot');
+    src: url('LMRoman9-Bold.eot?#iefix') format('embedded-opentype'),
+        url('LMRoman9-Bold.woff2') format('woff2'),
+        url('LMRoman9-Bold.woff') format('woff'),
+        url('LMRoman9-Bold.ttf') format('truetype'),
+        url('LMRoman9-Bold.svg#LMRoman9-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LMSans9';
+    src: url('LMSans9-Regular.eot');
+    src: url('LMSans9-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LMSans9-Regular.woff2') format('woff2'),
+        url('LMSans9-Regular.woff') format('woff'),
+        url('LMSans9-Regular.ttf') format('truetype'),
+        url('LMSans9-Regular.svg#LMSans9-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LMRomanDemi10';
+    src: url('LMRomanDemi10-Oblique.eot');
+    src: url('LMRomanDemi10-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('LMRomanDemi10-Oblique.woff2') format('woff2'),
+        url('LMRomanDemi10-Oblique.woff') format('woff'),
+        url('LMRomanDemi10-Oblique.ttf') format('truetype'),
+        url('LMRomanDemi10-Oblique.svg#LMRomanDemi10-Oblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LMRoman9';
+    src: url('LMRoman9-Regular.eot');
+    src: url('LMRoman9-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LMRoman9-Regular.woff2') format('woff2'),
+        url('LMRoman9-Regular.woff') format('woff'),
+        url('LMRoman9-Regular.ttf') format('truetype'),
+        url('LMRoman9-Regular.svg#LMRoman9-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LMRomanCaps10';
+    src: url('LMRomanCaps10-Regular.eot');
+    src: url('LMRomanCaps10-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LMRomanCaps10-Regular.woff2') format('woff2'),
+        url('LMRomanCaps10-Regular.woff') format('woff'),
+        url('LMRomanCaps10-Regular.ttf') format('truetype'),
+        url('LMRomanCaps10-Regular.svg#LMRomanCaps10-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LMSans9';
+    src: url('LMSans9-Oblique.eot');
+    src: url('LMSans9-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('LMSans9-Oblique.woff2') format('woff2'),
+        url('LMSans9-Oblique.woff') format('woff'),
+        url('LMSans9-Oblique.ttf') format('truetype'),
+        url('LMSans9-Oblique.svg#LMSans9-Oblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LMRomanCaps10';
+    src: url('LMRomanCaps10-Oblique.eot');
+    src: url('LMRomanCaps10-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('LMRomanCaps10-Oblique.woff2') format('woff2'),
+        url('LMRomanCaps10-Oblique.woff') format('woff'),
+        url('LMRomanCaps10-Oblique.ttf') format('truetype'),
+        url('LMRomanCaps10-Oblique.svg#LMRomanCaps10-Oblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
